@@ -5,4 +5,5 @@ Code is taken and adapted from https://github.com/hfwittmann/transformer_finetun
 Uses pytorch lightning. Demonstrates also how to modify a huggingface transformer model so that it employs a _custom_ loss function.
 
 Regarding 'mini-batch trimming' (curriculum learning method), see my arxiv preprint at https://arxiv.org/abs/2110.13058
+
 Regarding 'AdaFamily' (a family of novel adaptive gradient methods), see my arxiv preprint which will be uploaded in the next few days.
