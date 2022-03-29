@@ -6,5 +6,5 @@ Uses pytorch lightning. Demonstrates also how to modify (via 'monkey-patching') 
 
 Regarding 'mini-batch trimming' (curriculum learning method), see my arxiv preprint at https://arxiv.org/abs/2110.13058 (accepted for ASPAI 2021 conference)
 
-Regarding 'AdaFamily' (a family of novel adaptive gradient methods), see my arxiv preprint at https://arxiv.org/abs/2203.01603 (submitted to ISPR 2022 conference).
+Regarding 'AdaFamily' (a family of novel adaptive gradient methods), see my arxiv preprint at https://arxiv.org/abs/2203.01603 (accepted for ISPR 2022 conference).
 We use the AdaFamily variant with myu = 0.25
